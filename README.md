@@ -3,6 +3,8 @@
 All users are welcome to participate in the chat room, either to propose to reopen a post, or just to chill around and chat.
 Here are some rules to be followed if you are going to participate in the room:
 
+---
+
 ### To propose to reopen a post...
 
    1) ***Use the proper tags:***  
@@ -26,6 +28,8 @@ Here are some rules to be followed if you are going to participate in the room:
       I'm proposing to reopen the post closed as Needs Details Or Clarity due to important relevant code previously missing in the post.
       The code is now added by the OP, and I understand the problem clearly now.
 
+---
+
 ### Casting a reopen vote on a proposed post...
 
    1) ***Proposal must be accompanied by an explanation before you cast a vote:***  
@@ -34,6 +38,8 @@ Here are some rules to be followed if you are going to participate in the room:
       Violating this rule a few times might be passed as a coincidence of reviewing timings, but if such suspicious patterns continue,
       you will eventually be banned from the room.
       
+---
+
 ### You can chat about almost anything in the room that doesn't violate the code of conduct, though here are few emphasis...
 
    1) ***Shady conversations are forbidden:***  
@@ -48,7 +54,9 @@ Here are some rules to be followed if you are going to participate in the room:
    4) ***English is mandatory:***  
       English is mandatory in the chat room, as it's the English Stack Overflow. 
       This is *not* a rule that you can quote to users who are using English with merely grammatical errors, typos, etc.
-   
+
+---
+
 ### Rule for ROs (room owners) when moderating the chat room...
 
    1) ***Do not abuse your privileges:***  
