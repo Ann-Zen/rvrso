@@ -1,27 +1,31 @@
-Reopen Vote Reviewers of SO is a chat room dedicated to help users with the reopening process of closed posted on Stack Overflow. 
-All users are welcome to participate in the chat room, either to propose to reopen a post, or just to chill around and chat.
+### Reopen Vote Reviewers of SO is a chat room dedicated to help users with the reopening process of closed posted on Stack Overflow. 
 
+All users are welcome to participate in the chat room, either to propose to reopen a post, or just to chill around and chat.
 Here are some rules to be followed if you are going to participate in the room:
 
-To propose to reopen a post...
+### To propose to reopen a post...
 
-   1) Use the proper tags:
+   1) ***Use the proper tags:***
+   
       To make it clear that you are proposing to reopen a post, include in your proposal the [tag:reopen-pls] tag, 
       followed by the main programming tag(s) of the post (optional, but recommended)*.
       If you are proposing to reopen your own post, include the [tag:mine] tag as a disclosure.
 
-   2) Explain why the post warrants a reopening:
+   2) ***Explain why the post warrants a reopening:***
+   
       The focus here is why you believe that the post you proposed to reopen should be reopened.
       Was it an edit made after closure that fixed the former issues of the post, or is there a reason why the post shouldn't have been closed in the first place? 
       Be elaborate to avoid misunderstandings.
 
-   3) Do not fire and forget:
+   3) ***Do not fire and forget:***
+   
       Once you have posted your proposal and given an explanation as to why you're making the proposal, 
       stay and wait in case of questions and/or clarifications needed about your request.
       If you need leave right after making your request for any reason, or ignore questions regarding your request, your request will be binned, 
       though feel free to make that request again when you know you'll have the time and use the time to stick around and answer potential questions.
       
-   Example reopening proposal:   
+   4) ***Example reopening proposal:***
+
       [tag:reopen-pls] [tag:python] https://stackoverflow.com/questions/.../example-question-link
       I'm proposing to reopen the post closed as Needs Details Or Clarity due to important relevant code previously missing in the post.
       The code is now added by the OP, and I understand the problem clearly now.
