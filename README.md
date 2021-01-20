@@ -1,4 +1,4 @@
-### Reopen Vote Reviewers of SO is a chat room dedicated to help users with the reopening process of closed posted on Stack Overflow. 
+### Reopen Vote Reviewers of SO is a chat room dedicated to help users with the reopening process of closed posts on Stack Overflow. 
 
 All users are welcome to participate in the chat room, either to propose to reopen a post, or just to chill around and chat.
 Here are some rules to be followed if you are going to participate in the room:
