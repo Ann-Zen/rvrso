@@ -22,7 +22,7 @@ Here are some rules to be followed if you are going to participate in the room:
       though feel free to make that request again when you know you'll have the time and use the time to stick around and answer potential questions.
       
    4) ***Example reopening proposal:***  
-      [tag:reopen-pls] [tag:python] https://stackoverflow.com/questions/.../example-question-link
+      [tag:reopen-pls] [tag:python] https://stackoverflow.com/questions/.../example-question-link  
       I'm proposing to reopen the post closed as Needs Details Or Clarity due to important relevant code previously missing in the post.
       The code is now added by the OP, and I understand the problem clearly now.
 
@@ -49,7 +49,7 @@ Here are some rules to be followed if you are going to participate in the room:
       English is mandatory in the chat room, as it's the English Stack Overflow. 
       This is *not* a rule that you can quote to users who are using English with merely grammatical errors, typos, etc.
    
-### Rule for ROs when moderating the chat room...
+### Rule for ROs (room owners) when moderating the chat room...
 
    1) ***Do not abuse your privileges:***  
       Do not abuse any privileges given to you as a RO to do things that are for your personal consent.
