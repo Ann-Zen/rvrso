@@ -72,7 +72,7 @@ Here are some rules to be followed if you are going to participate in the room:
       do not be so quick to kick a user out of the room for doing something against the rules.
       Instead, calmly let them know what they did wrong (don't be snarky), and see if they accept to change.
       
-   3) ***Meeting with ROs before appointing nre ROs:***  
+   3) ***Meeting with ROs before appointing new ROs:***  
       Before appointing any other user as a RO, discuss the matter with the existing ROs to get their consent.
       If any of the existing ROs are inactive or not responding for any reason after at least 48 hrs from when you pinged them,
       you may assume that the RO doesn't have a problem with the appointing of a RO.
